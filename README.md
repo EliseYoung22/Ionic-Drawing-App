@@ -1,26 +1,12 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+#Ionic Drawing App
 
-## How to use this template
+![screen shot 2017-07-11 at 11 16 48 am](https://user-images.githubusercontent.com/25731474/28046991-da9f3b26-662a-11e7-852c-0e051204bc16.png)
+![screen shot 2017-07-11 at 11 18 55 am](https://user-images.githubusercontent.com/25731474/28046992-da9f7942-662a-11e7-85e5-cbbf07871e00.png)
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
-
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
-
-### With the Ionic CLI:
-
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
-
-```bash
-$ sudo npm install -g ionic cordova
-$ ionic start myBlank blank
 ```
+$ git clone
+$ npm install
+$ ionic serve
 
-Then, to run it, cd into `myBlank` and run:
-
-```bash
-$ ionic cordova platform add ios
-$ ionic cordova run ios
 ```
-
-Substitute ios for android if not on a Mac.
 
