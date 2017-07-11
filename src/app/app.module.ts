@@ -7,10 +7,13 @@ import { StatusBar } from '@ionic-native/status-bar';
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
 
+import { CanvasDrawComponent } from '../components/canvas-draw/canvas-draw';
+
 @NgModule({
   declarations: [
     MyApp,
-    HomePage
+    HomePage,
+    CanvasDrawComponent
   ],
   imports: [
     BrowserModule,
